@@ -1,0 +1,18 @@
+{
+    "README.rst":
+    {
+        "_status":
+        {
+            "md5": "952ee56fa6ce36c752117e79cc381df8"
+        }
+    },
+
+
+
+
+    "docs/conf.py": {
+        "_status": {
+            "md5": "6e9c7d805a1d33f0719b14fe28554ab1"
+        }
+    }
+}
